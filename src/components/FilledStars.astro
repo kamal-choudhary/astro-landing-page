@@ -1,0 +1,19 @@
+---
+import { Icon } from "astro-icon/components";
+
+const { count = 1 } = Astro.props;
+
+if (count > 5) {
+  throw new Error(`Star count cannot exceed 5. Received: ${count}`);
+}
+---
+
+{
+  Array.from({ length: count }, () => (
+    <Icon
+      name="star"
+      class="size-5 shrink-0 text-orange-500"
+      aria-hidden="true"
+    />
+  ))
+}
