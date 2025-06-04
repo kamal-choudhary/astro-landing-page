@@ -2,6 +2,7 @@
 import BaseLayout from "@layouts/BaseLayout.astro";
 import Hero from "@components/Hero.astro";
 import FAQ from "@components/FAQ.jsx";
+import Footer from "@components/Footer.astro";
 
 const pageTitle = "Landing Page";
 ---
@@ -9,4 +10,5 @@ const pageTitle = "Landing Page";
 <BaseLayout pageTitle={pageTitle}>
   <Hero />
   <FAQ client:load />
+  <Footer />
 </BaseLayout>
