@@ -33,4 +33,4 @@ const faqs = [
   },
 ];
 
-export default faqs
+export default faqs;

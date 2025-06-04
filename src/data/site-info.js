@@ -16,7 +16,8 @@ const socialLinks = [
 ];
 
 const siteInfo = {
-  navLinks, socialLinks
+  navLinks,
+  socialLinks,
 };
 
 export default siteInfo;
