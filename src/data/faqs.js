@@ -19,7 +19,7 @@ const faqs = [
   {
     question: "Is it safe to install a solar battery under this program?",
     answer:
-      "Yes, safety is a priority. Installers must be accredited by Solar Accreditation Australia (SAA), and the system should be tested to confirm it can store and discharge energy safely. BatterySolarQuotesTM take the guesswork out of choosing accredited SAA accredited installers, ensuring safe and compliant battery installations.",
+      "Yes, safety is a priority. Installers must be accredited by Solar Accreditation Australia (SAA), and the system should be tested to confirm it can store and discharge energy safely. BatterySolarQuotes™ take the guesswork out of choosing accredited SAA accredited installers, ensuring safe and compliant battery installations.",
   },
   {
     question: "Can I use this rebate with other discounts or loans?",
@@ -29,7 +29,7 @@ const faqs = [
   {
     question: "How do I get the rebate?",
     answer:
-      "Your installer handles the rebate paperwork through the program's certificate system. Use a reputable quote comparison company like BatterySolarQuotesTM to compare quotes, and pick an accredited installer to beat the rush!",
+      "Your installer handles the rebate paperwork through the program's certificate system. Use a reputable quote comparison company like BatterySolarQuotes™ to compare quotes, and pick an accredited installer to beat the rush!",
   },
 ];
 
